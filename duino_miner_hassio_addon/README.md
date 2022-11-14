@@ -3,5 +3,5 @@
 _____
 ##Based on [MineCryptoOnWifiRouter](https://github.com/BastelPichi/MineCryptoOnWifiRouter)
 
-
+*To start:*
 
