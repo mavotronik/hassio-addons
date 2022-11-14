@@ -1,3 +1,7 @@
 
-##Duino coin miner Home Assistant addon
-#Based on MineCryptoOnWifiRouter
+#Duino coin miner Home Assistant addon
+_____
+##Based on [MineCryptoOnWifiRouter](https://github.com/BastelPichi/MineCryptoOnWifiRouter)
+
+
+
