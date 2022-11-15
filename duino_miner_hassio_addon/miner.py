@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Duino-Coin Router Miner. Heavely based on the duino-coin Minimal PC Miner by BastelPichi 2022.
-# Originally by Revox
+# Duino-Coin HASSIO  Miner. Based on  MineCryptoOnWifiRouter by BastelPichi
+
 
 import hashlib
 import os
@@ -9,9 +9,10 @@ import sys  # Only python3 included libraries
 import time
 import requests
 
+from sys import argv
 
-username = "mavotronik" # add your username here.
-mining_key = "" # change this to your mining key, or leave as is.
+script, username, mining_key = argv
+
 
 soc = socket()
 
