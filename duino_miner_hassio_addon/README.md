@@ -5,5 +5,8 @@ _____
 
 - Duino single-threaded coin miner runы in docker as a HASSIO addon
 - Supported architectures:
-
+  - amd64
+  - armv7
+  - aarch64
+  
 
