@@ -10,6 +10,7 @@ _____
   - aarch64
  
  ## To start mining: 
- - you need to enter your 'username' and 'mining_key' in the appropriate fields. If you do not have a mining key, then in the column 'mining_key' you must specify '""'
+ - you need to enter your `username` and `mining_key` in the appropriate fields. 
+ - If you do not have a mining key, then in the column `mining_key` you must specify `""`
   
 
