@@ -3,7 +3,7 @@
 _____
 ## Based on [MineCryptoOnWifiRouter](https://github.com/BastelPichi/MineCryptoOnWifiRouter)
 
-Duino single-threaded coin miner runы in docker as a HASSIO addon
+- Duino single-threaded coin miner runы in docker as a HASSIO addon
 ![Addon Stage][stage-badge]
 ![Supports aarch64 Architecture][aarch64-badge]
 ![Supports amd64 Architecture][amd64-badge]
@@ -11,10 +11,6 @@ Duino single-threaded coin miner runы in docker as a HASSIO addon
 
 [![Add repository on my Home Assistant][repository-badge]][repository-url]
 [![Install on my Home Assistant][install-badge]][install-url]
-
-# Configuration
-
-The configuration is located under the Docs tab or [DOCS.md](https://github.com/Poeschl/Hassio-Addons/blob/main/mpd/DOCS.md).
 
 
 [aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg?style=for-the-badge
