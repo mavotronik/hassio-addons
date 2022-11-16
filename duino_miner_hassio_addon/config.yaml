@@ -17,4 +17,4 @@ options:
   mining_key: ""
 schema:
   username: str
-  mining_key: str?
+  mining_key: str
