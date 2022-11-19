@@ -1,5 +1,5 @@
 #!/usr/bin/with-contenv bashio
-
+ 
 echo "Hassio Duco-Miner."
 echo "Based on MineCryptoOnWifiRouter by BastelPichi  "
 echo ""
