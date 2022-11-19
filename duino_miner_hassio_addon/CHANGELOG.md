@@ -1,6 +1,8 @@
-# 1.0.7 
-- First commit (14.11.22)
-# 1.1.0 
-- added ability to specify username and mining_key from configuration panel (15.11.22)
+# 1.1.2
+- Container uses tmpfs, a memory file system.
 # 1.1.1
-- update config.yaml
+- Update config.yaml
+# 1.1.0 
+- Added ability to specify username and mining_key from configuration panel (15.11.22)
+# 1.0.7 
+- First commit
