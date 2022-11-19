@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Duino-Coin HASSIO  Miner. Based on  MineCryptoOnWifiRouter by BastelPichi
-
+ 
 
 import hashlib
 import os
