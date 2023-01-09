@@ -18,7 +18,7 @@ _____
  ## Configuration: 
 
 - Enter your `username` and `mining_key` in the appropriate fields. 
-- If you do not have a mining key, specify `""` in `mining_key` column
+- If you do not have a mining key, specify `None` in `mining_key` column
   
 ## TODO: 
 - Multi-thread miner
