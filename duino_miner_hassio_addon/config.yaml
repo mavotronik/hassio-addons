@@ -16,7 +16,7 @@ stage: stable
 
 options:
   username: "username"
-  mining_key: ""
+  mining_key: "None"
 schema:
   username: str
   mining_key: str
