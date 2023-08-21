@@ -3,3 +3,4 @@ FROM $BUILD_FROM
 
 # Copy data for add-on
 COPY rootfs /
+VOLUME ["/run"]
