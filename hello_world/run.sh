@@ -1,3 +1,3 @@
-#!/usr/bin/with-contenv bashio
+#!/usr/bin/bash
 
 echo "Hello world!"
