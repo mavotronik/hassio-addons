@@ -1,0 +1,14 @@
+#!/usr/bin/with-contenv bashio
+# ==============================================================================
+# Start the example service
+# s6-overlay docs: https://github.com/just-containers/s6-overlay
+# ==============================================================================
+
+# Add your code here
+
+ps
+sleep 2
+ls
+echo "Hello world !!!"
+
+bashio::log.info "Hello world !!!2"
