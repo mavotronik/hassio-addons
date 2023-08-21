@@ -5,5 +5,3 @@ FROM $BUILD_FROM
 
 WORKDIR /
 COPY rootfs /
-RUN ["ls -l /"]
-VOLUME ["/run"]
