@@ -1,0 +1,25 @@
+name: "XMRig miner Add-On"
+description: "Mine Monero in Home Assistant"
+version: "0.1.0"
+slug: "xmrig-miner"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armv7
+
+apparmor: true
+backup: hot
+tmpfs: true
+stage: stable
+
+options:
+  mining_pool: "pool:port"
+  wallet: "wallet_address"
+  password: "x"
+  threads: "1"
+schema:
+  mining_pool: str
+  wallet: str
+  password: password
+  threads: int
