@@ -1,4 +1,4 @@
-name: "XMRig miner Add-On"
+name: "XMRig miner"
 description: "Mine Monero in Home Assistant"
 version: "0.1.1"
 slug: "xmrig-miner"
