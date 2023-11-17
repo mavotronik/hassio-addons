@@ -12,7 +12,7 @@ arch:
 apparmor: true
 backup: hot
 tmpfs: true
-stage: stable
+stage: deprecated
 
 options:
   username: "username"
