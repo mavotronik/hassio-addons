@@ -15,7 +15,7 @@ stage: stable
 
 options:
   mining_pool: "pool:port"
-  wallet: "wallet_address"
+  wallet: "walletAddress"
   password: "x"
   threads: "1"
 schema:
