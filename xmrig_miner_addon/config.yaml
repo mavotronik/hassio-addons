@@ -1,6 +1,6 @@
 name: "XMRig miner"
 description: "Mine Monero in Home Assistant"
-version: "0.1.1"
+version: "0.1.2"
 slug: "xmrig-miner"
 init: false
 arch:
@@ -18,8 +18,10 @@ options:
   wallet: "walletAddress"
   password: "x"
   threads: "1"
+  mode: "light"
 schema:
   mining_pool: str
   wallet: str
   password: password?
   threads: int
+  mode: list(auto|fast|light)
