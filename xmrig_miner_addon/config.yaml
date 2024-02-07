@@ -6,7 +6,6 @@ init: false
 arch:
   - aarch64
   - amd64
-  - armv7
 
 apparmor: true
 backup: hot
@@ -17,11 +16,15 @@ options:
   mining_pool: "pool:port"
   wallet: "walletAddress"
   password: "x"
+  coin: "monero"
+  algo: "rx/0"
   threads: "1"
   mode: "light"
 schema:
   mining_pool: str
   wallet: str
   password: password?
+  coin: str
+  algo: str
   threads: int
   mode: list(auto|fast|light)
