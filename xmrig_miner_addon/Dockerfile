@@ -12,7 +12,8 @@ RUN \
     g++ \
     libuv-dev \
     openssl-dev \
-    hwloc-dev    
+    hwloc-dev \
+    linux-headers
 
 
 RUN git clone https://github.com/xmrig/xmrig
