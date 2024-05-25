@@ -3,6 +3,7 @@ _____
 - XMRig miner runs in docker as a HASSIO addon
 - Supported architectures:
   - amd64
+  - aarch64
  
  ## Installation
  1. Add a repository via MY button
