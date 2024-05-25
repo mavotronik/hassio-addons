@@ -1,5 +1,7 @@
 # 1.1.3
-- new install requests lib method
+- Some changes. Now addon is fully deprecated (26.05.24)
+# 1.1.3
+- New install requests lib method (31.03.24)
 # 1.1.2
 - Container uses tmpfs, a memory file system. (20.11.22)
 # 1.1.1
