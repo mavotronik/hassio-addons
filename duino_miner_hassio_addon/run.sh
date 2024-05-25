@@ -4,9 +4,6 @@ echo "Hassio Duco-Miner."
 echo "Based on MineCryptoOnWifiRouter by BastelPichi  "
 echo ""
 
-#echo "Installing requests . . ."
-#pip3 install requests
-
 USERNAME=$(bashio::config 'username')
 MINING_KEY=$(bashio::config 'mining_key')
 
