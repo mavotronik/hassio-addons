@@ -1,4 +1,0 @@
-image: ghcr.io/home-assistant/{arch}-base
-build_from:
-  aarch64: "arm64v8/alpine:"
-  amd64: "alpine:"
