@@ -1,4 +1,4 @@
-# 1.1.3
+# 1.1.4
 - Some changes. Now addon is fully deprecated (26.05.24)
 # 1.1.3
 - New install requests lib method (31.03.24)
