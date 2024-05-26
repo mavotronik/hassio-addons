@@ -12,4 +12,5 @@ https://github.com/mavotronik/hassio-addons
 * Duino coin miner (Deprecated)
 * Xmrig miner
 
-## TODO nicehash support
+## TODO 
+- nicehash support
