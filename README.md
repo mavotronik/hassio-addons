@@ -10,4 +10,4 @@ https://github.com/mavotronik/hassio-addons
 ------------------
 ## Addons:
 * Duino coin miner (Deprecated)
-* Xmrig miner (not stable)
+* Xmrig miner
