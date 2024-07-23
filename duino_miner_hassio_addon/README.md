@@ -1,5 +1,5 @@
 
-# Duino coin miner Home Assistant addon
+# Duino coin miner Home Assistant addon (deprecated)
 _____
 ## Based on [MineCryptoOnWifiRouter](https://github.com/BastelPichi/MineCryptoOnWifiRouter)
 
