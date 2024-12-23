@@ -1,6 +1,6 @@
 name: "XMRig miner"
 description: "Mine Monero in Home Assistant"
-version: "0.1.2"
+version: "0.1.2-latest"
 slug: "xmrig-miner"
 init: false
 arch:
